@@ -32,7 +32,7 @@ def snow_example():
 
 
 if __name__ == "__main__":
-    #progress_bar_example()
+    progress_bar_example()
     #spinner_example()
     #balloons_example()
-    snow_example()
+    #snow_example()
